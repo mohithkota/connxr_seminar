@@ -1,2 +1,2 @@
 # connxr_seminar
-seminar work
+work done using this connxr 
